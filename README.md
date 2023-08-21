@@ -1,4 +1,4 @@
-# whatIsThis
+# LotteryWinningNumbers
 The goal of this project was to analyze and plot lottery winning numbers from csv file
 
 This code defines a PowerballAnalyzer class that has 
